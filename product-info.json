@@ -1,0 +1,16 @@
+{
+  "name": "PhpStorm",
+  "version": "2019.1.1",
+  "buildNumber": "191.6707.66",
+  "productCode": "PS",
+  "svgIconPath": "bin/phpstorm.svg",
+  "launch": [
+    {
+      "os": "Linux",
+      "launcherPath": "bin/phpstorm.sh",
+      "javaExecutablePath": "jre64/bin/java",
+      "vmOptionsFilePath": "bin/phpstorm64.vmoptions",
+      "startupWmClass": "jetbrains-phpstorm"
+    }
+  ]
+}
